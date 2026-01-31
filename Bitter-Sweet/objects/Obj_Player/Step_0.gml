@@ -57,6 +57,14 @@ if(room = Settings){
 if(room = Office){
 	Obj_Player.visible = true;
 }
+if(room = Breakroom){
+	Obj_Player.visible = true;
+}
 if (keyboard_check(vk_escape)){
-	room_goto(Settings)
+// Store the ID of the current room
+	if (global.previous_room = noone){
+		global.previous_room = room;
+	}else{
+	room_goto(Settings);
+	}
 }

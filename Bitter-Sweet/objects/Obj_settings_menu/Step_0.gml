@@ -40,7 +40,12 @@ if (keyboard_check_pressed(vk_enter)) {
 			break;
 		case 4:
             // Go back to the previous menu or close the settings
-            room_goto(Office); // Example room transition
+            // Check if a valid room ID was stored
+			if (global.previous_room != noone) {
+			// Go back to the stored room
+			 room_goto(global.previous_room);
+			 global.previous_room = noone;
+			} 
             break;
 		case 5:
 			game_end();

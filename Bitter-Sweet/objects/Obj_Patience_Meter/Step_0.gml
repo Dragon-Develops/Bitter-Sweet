@@ -11,3 +11,8 @@ patience = clamp(patience, 0, max_patience);
 if (patience <= 0) {
     //Game Over
 }
+if (room = Settings){
+	Obj_Patience_Meter.visible = false;
+}else{
+	Obj_Patience_Meter.visible = true;
+}

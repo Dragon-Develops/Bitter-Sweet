@@ -57,9 +57,9 @@
   "resourceVersion":"2.0",
   "RoomOrderNodes":[
     {"roomId":{"name":"Office","path":"rooms/Office/Office.yy",},},
-    {"roomId":{"name":"Computer_Space","path":"rooms/Computer_Space/Computer_Space.yy",},},
-    {"roomId":{"name":"Settings","path":"rooms/Settings/Settings.yy",},},
     {"roomId":{"name":"Breakroom","path":"rooms/Breakroom/Breakroom.yy",},},
+    {"roomId":{"name":"Settings","path":"rooms/Settings/Settings.yy",},},
+    {"roomId":{"name":"Computer_Space","path":"rooms/Computer_Space/Computer_Space.yy",},},
   ],
   "templateType":"game",
   "TextureGroups":[
