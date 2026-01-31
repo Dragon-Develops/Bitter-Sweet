@@ -18,7 +18,7 @@ if (keyboard_check_pressed(vk_enter)) {
 	if (++global.textIndex < array_length(texts)) {
             global.currentTextProgress = 0;
         } else {
-			global.textIndex = 0;
+			global.textIndex = 1;
 		}
     }
 }
