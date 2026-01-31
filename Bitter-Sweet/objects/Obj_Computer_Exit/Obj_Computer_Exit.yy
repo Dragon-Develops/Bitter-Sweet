@@ -10,8 +10,8 @@
   "name":"Obj_Computer_Exit",
   "overriddenProperties":[],
   "parent":{
-    "name":"Objects",
-    "path":"folders/Objects.yy",
+    "name":"Terminal",
+    "path":"folders/Objects/Interactions/Terminal.yy",
   },
   "parentObjectId":null,
   "persistent":false,

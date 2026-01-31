@@ -8,8 +8,8 @@
   "name":"Obj_Terminal",
   "overriddenProperties":[],
   "parent":{
-    "name":"Objects",
-    "path":"folders/Objects.yy",
+    "name":"Terminal",
+    "path":"folders/Objects/Interactions/Terminal.yy",
   },
   "parentObjectId":{
     "name":"Obj_Interact",

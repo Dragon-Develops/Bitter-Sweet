@@ -8,8 +8,8 @@
   "name":"Obj_Breakroom_Door_Leave",
   "overriddenProperties":[],
   "parent":{
-    "name":"Objects",
-    "path":"folders/Objects.yy",
+    "name":"Breakrooms",
+    "path":"folders/Objects/Interactions/Breakrooms.yy",
   },
   "parentObjectId":{
     "name":"Obj_Interact",

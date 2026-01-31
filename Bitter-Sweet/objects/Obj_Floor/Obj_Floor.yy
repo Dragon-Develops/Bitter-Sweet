@@ -6,8 +6,8 @@
   "name":"Obj_Floor",
   "overriddenProperties":[],
   "parent":{
-    "name":"Objects",
-    "path":"folders/Objects.yy",
+    "name":"Decorative Objects",
+    "path":"folders/Objects/Decorative Objects.yy",
   },
   "parentObjectId":null,
   "persistent":false,
