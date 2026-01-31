@@ -62,6 +62,7 @@
     {"id":{"name":"Spr_Player","path":"sprites/Spr_Player/Spr_Player.yy",},},
     {"id":{"name":"Spr_Popup","path":"sprites/Spr_Popup/Spr_Popup.yy",},},
     {"id":{"name":"Spr_Terminal","path":"sprites/Spr_Terminal/Spr_Terminal.yy",},},
+    {"id":{"name":"Spr_Text_Background","path":"sprites/Spr_Text_Background/Spr_Text_Background.yy",},},
     {"id":{"name":"Spr_Text_Layout","path":"sprites/Spr_Text_Layout/Spr_Text_Layout.yy",},},
     {"id":{"name":"Spr_Webcam_Icon","path":"sprites/Spr_Webcam_Icon/Spr_Webcam_Icon.yy",},},
     {"id":{"name":"Sprite9","path":"sprites/Sprite9/Sprite9.yy",},},

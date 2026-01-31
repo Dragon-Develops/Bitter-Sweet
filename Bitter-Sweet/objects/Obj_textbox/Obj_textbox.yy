@@ -31,7 +31,10 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":null,
+  "spriteId":{
+    "name":"Spr_Text_Background",
+    "path":"sprites/Spr_Text_Background/Spr_Text_Background.yy",
+  },
   "spriteMaskId":null,
   "visible":true,
 }
