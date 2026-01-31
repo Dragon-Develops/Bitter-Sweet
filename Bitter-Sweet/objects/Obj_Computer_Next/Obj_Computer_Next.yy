@@ -1,9 +1,7 @@
 {
   "$GMObject":"",
   "%Name":"Obj_Computer_Next",
-  "eventList":[
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":6,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-  ],
+  "eventList":[],
   "managed":true,
   "name":"Obj_Computer_Next",
   "overriddenProperties":[],
@@ -29,10 +27,7 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":{
-    "name":"Spr_Computer_Next",
-    "path":"sprites/Spr_Computer_Next/Spr_Computer_Next.yy",
-  },
+  "spriteId":null,
   "spriteMaskId":null,
   "visible":true,
 }

@@ -57,7 +57,6 @@
     {"id":{"name":"Spr_Breakroom_Door","path":"sprites/Spr_Breakroom_Door/Spr_Breakroom_Door.yy",},},
     {"id":{"name":"Spr_Computer_Background","path":"sprites/Spr_Computer_Background/Spr_Computer_Background.yy",},},
     {"id":{"name":"Spr_Computer_Exit","path":"sprites/Spr_Computer_Exit/Spr_Computer_Exit.yy",},},
-    {"id":{"name":"Spr_Computer_Next","path":"sprites/Spr_Computer_Next/Spr_Computer_Next.yy",},},
     {"id":{"name":"Spr_Floor","path":"sprites/Spr_Floor/Spr_Floor.yy",},},
     {"id":{"name":"Spr_Health_Pickup","path":"sprites/Spr_Health_Pickup/Spr_Health_Pickup.yy",},},
     {"id":{"name":"Spr_Player","path":"sprites/Spr_Player/Spr_Player.yy",},},
