@@ -52,6 +52,7 @@
     {"id":{"name":"Object13","path":"objects/Object13/Object13.yy",},},
     {"id":{"name":"Breakroom","path":"rooms/Breakroom/Breakroom.yy",},},
     {"id":{"name":"Computer_Space","path":"rooms/Computer_Space/Computer_Space.yy",},},
+    {"id":{"name":"Game_Over","path":"rooms/Game_Over/Game_Over.yy",},},
     {"id":{"name":"Office","path":"rooms/Office/Office.yy",},},
     {"id":{"name":"Settings","path":"rooms/Settings/Settings.yy",},},
     {"id":{"name":"Spr_Breakroom_Door","path":"sprites/Spr_Breakroom_Door/Spr_Breakroom_Door.yy",},},
@@ -74,6 +75,7 @@
     {"roomId":{"name":"Breakroom","path":"rooms/Breakroom/Breakroom.yy",},},
     {"roomId":{"name":"Settings","path":"rooms/Settings/Settings.yy",},},
     {"roomId":{"name":"Computer_Space","path":"rooms/Computer_Space/Computer_Space.yy",},},
+    {"roomId":{"name":"Game_Over","path":"rooms/Game_Over/Game_Over.yy",},},
   ],
   "templateType":"game",
   "TextureGroups":[
