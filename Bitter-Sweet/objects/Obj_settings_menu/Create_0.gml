@@ -5,6 +5,7 @@ menu_options[1] = "Music";
 menu_options[2] = "Text Speed";
 menu_options[3] = "Fullscreen"; 
 menu_options[4] = "Back";
+menu_options[5] = "EXIT GAME";
 
 // Store values for settings if needed (e.g., volume level)
 sound_volume = 100;

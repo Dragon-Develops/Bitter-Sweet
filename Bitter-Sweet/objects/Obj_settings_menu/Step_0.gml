@@ -42,5 +42,8 @@ if (keyboard_check_pressed(vk_enter)) {
             // Go back to the previous menu or close the settings
             room_goto(Office); // Example room transition
             break;
+		case 5:
+			game_end();
+			break;
     }
 }
