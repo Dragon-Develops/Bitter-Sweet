@@ -1,5 +1,20 @@
 //Prevents the player character from moving while in the computer
-if (!room = Computer_Space){
+if (room = Office){
+// Actual Player Movement
+	if (keyboard_check(vk_left)){
+		x = x - 5
+	}
+	if (keyboard_check(vk_right)){
+		x = x + 5
+	}
+	if (keyboard_check(ord("A"))){
+		x = x - 5
+	}
+	if (keyboard_check(ord("D"))){
+		x = x + 5
+	}
+}
+if (room = Breakroom){
 // Actual Player Movement
 	if (keyboard_check(vk_left)){
 		x = x - 5
@@ -20,14 +35,28 @@ if(collision_circle(x,y,radius,Obj_Terminal, false, true)){
 			room_goto(Computer_Space);
 		}
 	}
+if(collision_circle(x,y,radius,Obj_Breakroom_Door_Enter, false, true)){
+		if(keyboard_check(ord("E"))){
+			room_goto(Breakroom);
+			x = 1165;
+		}
+	}
+if(collision_circle(x,y,radius,Obj_Breakroom_Door_Leave, false, true)){
+	if(keyboard_check(ord("E"))){
+			room_goto(Office);
+			x = 200;
+		}
+	}
 	
-//Make Player Invisible when in the computer and in settings
-if(!room = Office){
+if(room = Computer_Space){
 	Obj_Player.visible = false;
-}else{
+}
+if(room = Settings){
+	Obj_Player.visible = false;
+}
+if(room = Office){
 	Obj_Player.visible = true;
 }
-
 if (keyboard_check(vk_escape)){
 	room_goto(Settings)
 }

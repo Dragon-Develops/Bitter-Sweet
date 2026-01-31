@@ -1,27 +1,23 @@
 {
   "$GMRoom":"v1",
-  "%Name":"Office",
+  "%Name":"Breakroom",
   "creationCodeFile":"",
   "inheritCode":false,
   "inheritCreationOrder":false,
   "inheritLayers":false,
   "instanceCreationOrder":[
-    {"name":"inst_D3D86C","path":"rooms/Office/Office.yy",},
-    {"name":"inst_2E1ED8C2","path":"rooms/Office/Office.yy",},
-    {"name":"inst_5FEA5325","path":"rooms/Office/Office.yy",},
-    {"name":"inst_3B7E812F","path":"rooms/Office/Office.yy",},
+    {"name":"inst_5A81465E","path":"rooms/Breakroom/Breakroom.yy",},
+    {"name":"inst_45089564","path":"rooms/Breakroom/Breakroom.yy",},
   ],
   "isDnd":false,
   "layers":[
     {"$GMRInstanceLayer":"","%Name":"Instances","depth":0,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"instances":[
-        {"$GMRInstance":"v4","%Name":"inst_D3D86C","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_D3D86C","objectId":{"name":"Obj_Terminal","path":"objects/Obj_Terminal/Obj_Terminal.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.650655,"scaleY":1.650655,"x":1056.0,"y":448.0,},
-        {"$GMRInstance":"v4","%Name":"inst_2E1ED8C2","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_2E1ED8C2","objectId":{"name":"Obj_Player","path":"objects/Obj_Player/Obj_Player.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.650655,"scaleY":1.650655,"x":379.0,"y":466.0,},
-        {"$GMRInstance":"v4","%Name":"inst_5FEA5325","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_5FEA5325","objectId":{"name":"Obj_Floor","path":"objects/Obj_Floor/Obj_Floor.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":21.5,"scaleY":1.0,"x":0.0,"y":480.0,},
-        {"$GMRInstance":"v4","%Name":"inst_3B7E812F","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_3B7E812F","objectId":{"name":"Obj_Breakroom_Door_Enter","path":"objects/Obj_Breakroom_Door_Enter/Obj_Breakroom_Door_Enter.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.625,"scaleY":1.625,"x":124.0,"y":452.0,},
+        {"$GMRInstance":"v4","%Name":"inst_5A81465E","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_5A81465E","objectId":{"name":"Obj_Floor","path":"objects/Obj_Floor/Obj_Floor.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":21.5,"scaleY":1.0,"x":0.0,"y":480.0,},
+        {"$GMRInstance":"v4","%Name":"inst_45089564","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_45089564","objectId":{"name":"Obj_Breakroom_Door_Leave","path":"objects/Obj_Breakroom_Door_Leave/Obj_Breakroom_Door_Leave.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.4999999,"scaleY":1.4999999,"x":1248.0,"y":448.0,},
       ],"layers":[],"name":"Instances","properties":[],"resourceType":"GMRInstanceLayer","resourceVersion":"2.0","userdefinedDepth":false,"visible":true,},
     {"$GMRBackgroundLayer":"","%Name":"Background","animationFPS":15.0,"animationSpeedType":0,"colour":4278190080,"depth":100,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"hspeed":0.0,"htiled":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"layers":[],"name":"Background","properties":[],"resourceType":"GMRBackgroundLayer","resourceVersion":"2.0","spriteId":null,"stretch":false,"userdefinedAnimFPS":false,"userdefinedDepth":false,"visible":true,"vspeed":0.0,"vtiled":false,"x":0,"y":0,},
   ],
-  "name":"Office",
+  "name":"Breakroom",
   "parent":{
     "name":"Rooms",
     "path":"folders/Rooms.yy",
