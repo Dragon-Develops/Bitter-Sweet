@@ -22,7 +22,7 @@ if (keyboard_check_pressed(vk_enter)) {
 		}
     }
 }
-if (room = Computer_Space){
+if (room = Woman_Room){
 	Obj_textbox.visible = true
 }else{
 	Obj_textbox.visible = false
