@@ -1,11 +1,9 @@
 /// @description Insert description here
 // You can write your code in this editor
-menu_options[0] = "Sound FX";
-menu_options[1] = "Music";
-menu_options[2] = "Text Speed";
-menu_options[3] = "Fullscreen"; 
-menu_options[4] = "Back";
-menu_options[5] = "EXIT GAME";
+
+menu_options[0] = "Fullscreen"; 
+menu_options[1] = "Back";
+menu_options[2] = "EXIT GAME";
 
 // Store values for settings if needed (e.g., volume level)
 sound_volume = 100;
