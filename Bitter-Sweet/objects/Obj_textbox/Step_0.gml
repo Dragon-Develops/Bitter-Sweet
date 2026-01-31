@@ -18,7 +18,12 @@ if (keyboard_check_pressed(vk_enter)) {
 	if (++global.textIndex < array_length(texts)) {
             global.currentTextProgress = 0;
         } else {
-            instance_destroy();
-        }
+			global.textIndex = 0;
+		}
     }
+}
+if (room = Computer_Space){
+	Obj_textbox.visible = true
+}else{
+	Obj_textbox.visible = false
 }
