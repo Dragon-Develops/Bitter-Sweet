@@ -6,6 +6,6 @@ var _width = 200;
 var _height = 20;
 
 // Calculate percentage
-var _patience_perc = (patience / max_patience) * 100;
+var _patience_perc = (global.patience / max_patience) * 100;
 
 draw_healthbar(_bar_x, _bar_y, _bar_x + _width, _bar_y + _height, _patience_perc, c_red, c_yellow, c_green, 0, true, true);

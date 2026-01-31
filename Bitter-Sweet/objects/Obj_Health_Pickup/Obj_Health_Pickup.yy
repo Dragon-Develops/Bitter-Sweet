@@ -1,11 +1,9 @@
 {
   "$GMObject":"",
-  "%Name":"Obj_Breakroom_Door_Enter",
-  "eventList":[
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-  ],
+  "%Name":"Obj_Health_Pickup",
+  "eventList":[],
   "managed":true,
-  "name":"Obj_Breakroom_Door_Enter",
+  "name":"Obj_Health_Pickup",
   "overriddenProperties":[],
   "parent":{
     "name":"Breakrooms",
@@ -33,8 +31,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"Spr_Breakroom_Door",
-    "path":"sprites/Spr_Breakroom_Door/Spr_Breakroom_Door.yy",
+    "name":"Spr_Health_Pickup",
+    "path":"sprites/Spr_Health_Pickup/Spr_Health_Pickup.yy",
   },
   "spriteMaskId":null,
   "visible":true,

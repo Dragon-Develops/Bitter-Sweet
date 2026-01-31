@@ -68,3 +68,7 @@ if (keyboard_check(vk_escape)){
 	room_goto(Settings);
 	}
 }
+
+if(collision_circle(x,y,radius,Obj_Health_Pickup, false, true)){
+		global.patience = global.patience + 0.1;
+}

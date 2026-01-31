@@ -1,14 +1,16 @@
 /// @description Insert description here
 // You can write your code in this editor
-// Decrease patience by 10 per second
 if (room = Office){
-patience -= 5 / room_speed;
+global.patience -= 2 / room_speed;
+}
+if (room = Computer_Space){
+global.patience -= 4 / room_speed;
 }
 // Prevent patience from going below 0
-patience = clamp(patience, 0, max_patience);
+global.patience = clamp(global.patience, 0, max_patience);
 
 // Check if patience is gone
-if (patience <= 0) {
+if (global.patience <= 0) {
     //Game Over
 }
 if (room = Settings){
