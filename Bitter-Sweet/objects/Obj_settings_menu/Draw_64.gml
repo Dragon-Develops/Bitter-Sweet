@@ -13,3 +13,4 @@ for (var i = 0; i < menu_length; i++) {
     draw_text(80, _start_y + i * _spacing, menu_options[i]);
 }
 draw_set_color(c_white); // Reset color
+draw_text(x + 100, y, "Music Volume: " + string(music_volume) + "%");

@@ -22,9 +22,16 @@ if (keyboard_check_pressed(vk_enter)) {
             break;
         case 1:
             // Code to adjust Music
+			music_volume += 0.1;
+            if (music_volume > 1) music_volume = 0;
+            audio_group_set_gain(audiogroup_music, music_volume, 0);
             break;
         case 2:
             // Code to adjust Text Speed
+			 text_speed_index++;
+            if (text_speed_index > 2) text_speed_index = 0;
+            // 0 = slow, 1 = normal, 2 = fast
+            global.text_speed = [0.2, 0.5, 1.0][text_speed_index];
             break;
         case 3:
 			//Code to change Fullscreen
