@@ -32,6 +32,7 @@
   },
   "name":"Bitter-Sweet",
   "resources":[
+    {"id":{"name":"fnt_text","path":"fonts/fnt_text/fnt_text.yy",},},
     {"id":{"name":"Obj_Breakroom_Door_Enter","path":"objects/Obj_Breakroom_Door_Enter/Obj_Breakroom_Door_Enter.yy",},},
     {"id":{"name":"Obj_Breakroom_Door_Leave","path":"objects/Obj_Breakroom_Door_Leave/Obj_Breakroom_Door_Leave.yy",},},
     {"id":{"name":"Obj_Computer_Background","path":"objects/Obj_Computer_Background/Obj_Computer_Background.yy",},},
@@ -45,6 +46,7 @@
     {"id":{"name":"Obj_settings_menu","path":"objects/Obj_settings_menu/Obj_settings_menu.yy",},},
     {"id":{"name":"Obj_Terminal","path":"objects/Obj_Terminal/Obj_Terminal.yy",},},
     {"id":{"name":"Obj_Text_Layout","path":"objects/Obj_Text_Layout/Obj_Text_Layout.yy",},},
+    {"id":{"name":"Obj_textbox","path":"objects/Obj_textbox/Obj_textbox.yy",},},
     {"id":{"name":"Obj_Webcam_Icon","path":"objects/Obj_Webcam_Icon/Obj_Webcam_Icon.yy",},},
     {"id":{"name":"Object13","path":"objects/Object13/Object13.yy",},},
     {"id":{"name":"Breakroom","path":"rooms/Breakroom/Breakroom.yy",},},
