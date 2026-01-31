@@ -1,9 +1,9 @@
 {
   "$GMObject":"",
-  "%Name":"Object13",
+  "%Name":"Obj_Menu_Outline",
   "eventList":[],
   "managed":true,
-  "name":"Object13",
+  "name":"Obj_Menu_Outline",
   "overriddenProperties":[],
   "parent":{
     "name":"Decorative Objects",
@@ -28,8 +28,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"Sprite9",
-    "path":"sprites/Sprite9/Sprite9.yy",
+    "name":"Sprite13",
+    "path":"sprites/Sprite13/Sprite13.yy",
   },
   "spriteMaskId":null,
   "visible":true,

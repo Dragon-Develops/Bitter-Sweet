@@ -1,15 +1,20 @@
 {
   "$GMObject":"",
-  "%Name":"Object13",
-  "eventList":[],
+  "%Name":"Obj_Detective",
+  "eventList":[
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+  ],
   "managed":true,
-  "name":"Object13",
+  "name":"Obj_Detective",
   "overriddenProperties":[],
   "parent":{
-    "name":"Decorative Objects",
-    "path":"folders/Objects/Decorative Objects.yy",
+    "name":"Characters",
+    "path":"folders/Objects/Characters.yy",
   },
-  "parentObjectId":null,
+  "parentObjectId":{
+    "name":"Obj_Interact",
+    "path":"objects/Obj_Interact/Obj_Interact.yy",
+  },
   "persistent":true,
   "physicsAngularDamping":0.1,
   "physicsDensity":0.5,
@@ -28,8 +33,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"Sprite9",
-    "path":"sprites/Sprite9/Sprite9.yy",
+    "name":"Spr_Detective",
+    "path":"sprites/Spr_Detective/Spr_Detective.yy",
   },
   "spriteMaskId":null,
   "visible":true,

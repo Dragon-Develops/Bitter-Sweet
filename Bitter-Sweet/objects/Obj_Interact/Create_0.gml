@@ -3,7 +3,7 @@
 image_speed = 0;
 
 popup_id = instance_create_layer(x, y - 45, layer, Obj_Popup);
-radius = 60;
+radius = 90;
 
 has_been_interacted = false;
 
