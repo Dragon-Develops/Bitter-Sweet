@@ -33,6 +33,7 @@
     {"id":{"name":"Obj_Terminal","path":"objects/Obj_Terminal/Obj_Terminal.yy",},},
     {"id":{"name":"Computer_Space","path":"rooms/Computer_Space/Computer_Space.yy",},},
     {"id":{"name":"Office","path":"rooms/Office/Office.yy",},},
+    {"id":{"name":"Settings","path":"rooms/Settings/Settings.yy",},},
     {"id":{"name":"Spr_Computer_Exit","path":"sprites/Spr_Computer_Exit/Spr_Computer_Exit.yy",},},
     {"id":{"name":"Spr_Player","path":"sprites/Spr_Player/Spr_Player.yy",},},
     {"id":{"name":"Spr_Popup","path":"sprites/Spr_Popup/Spr_Popup.yy",},},
@@ -43,6 +44,7 @@
   "RoomOrderNodes":[
     {"roomId":{"name":"Office","path":"rooms/Office/Office.yy",},},
     {"roomId":{"name":"Computer_Space","path":"rooms/Computer_Space/Computer_Space.yy",},},
+    {"roomId":{"name":"Settings","path":"rooms/Settings/Settings.yy",},},
   ],
   "templateType":"game",
   "TextureGroups":[

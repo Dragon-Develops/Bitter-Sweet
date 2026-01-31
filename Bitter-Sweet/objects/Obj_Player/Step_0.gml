@@ -21,9 +21,13 @@ if(collision_circle(x,y,radius,Obj_Terminal, false, true)){
 		}
 	}
 	
-//Make Player Invisible when in the computer
-if(room = Computer_Space){
+//Make Player Invisible when in the computer and in settings
+if(!room = Office){
 	Obj_Player.visible = false;
 }else{
 	Obj_Player.visible = true;
+}
+
+if (keyboard_check(vk_escape)){
+	room_goto(Settings)
 }
