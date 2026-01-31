@@ -68,3 +68,10 @@ if (keyboard_check(vk_escape)){
 	room_goto(Settings);
 	}
 }
+if (keyboard_check(ord("2"))){
+	sprite_index = Spr_Player2
+}
+
+if (keyboard_check(ord("1"))){
+	sprite_index = Spr_Player1
+}
