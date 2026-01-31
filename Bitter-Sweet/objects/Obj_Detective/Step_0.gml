@@ -6,9 +6,6 @@ if(room = Street){
 if(! has_been_interacted){
 	if(collision_circle(x,y,radius,Obj_Player, false, true)){
 		popup_id.visible = true
-		if(keyboard_check(ord("E"))){
-			
-		}
 	}else{
 		popup_id.visible = false
 	}
