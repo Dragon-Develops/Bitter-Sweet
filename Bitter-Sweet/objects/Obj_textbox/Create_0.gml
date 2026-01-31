@@ -1,4 +1,4 @@
 
-textIndex = 0;
-currentTextProgress = 0;
+global.textIndex = 0;
+global.currentTextProgress = 0;
 margin = 5;
