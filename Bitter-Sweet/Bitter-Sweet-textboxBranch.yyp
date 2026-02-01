@@ -64,6 +64,7 @@
     {"id":{"name":"Settings","path":"rooms/Settings/Settings.yy",},},
     {"id":{"name":"Street","path":"rooms/Street/Street.yy",},},
     {"id":{"name":"Woman_Room","path":"rooms/Woman_Room/Woman_Room.yy",},},
+    {"id":{"name":"Spr_background","path":"sprites/Spr_background/Spr_background.yy",},},
     {"id":{"name":"Spr_Breakroom_Door","path":"sprites/Spr_Breakroom_Door/Spr_Breakroom_Door.yy",},},
     {"id":{"name":"Spr_Computer_Background","path":"sprites/Spr_Computer_Background/Spr_Computer_Background.yy",},},
     {"id":{"name":"Spr_Computer_Exit","path":"sprites/Spr_Computer_Exit/Spr_Computer_Exit.yy",},},
