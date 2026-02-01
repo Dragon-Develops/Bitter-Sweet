@@ -1,13 +1,13 @@
 {
   "$GMObject":"",
-  "%Name":"Object13",
+  "%Name":"Obj_Evidence_Board",
   "eventList":[],
   "managed":true,
-  "name":"Object13",
+  "name":"Obj_Evidence_Board",
   "overriddenProperties":[],
   "parent":{
-    "name":"Decorative Objects",
-    "path":"folders/Objects/Decorative Objects.yy",
+    "name":"Objects",
+    "path":"folders/Objects.yy",
   },
   "parentObjectId":null,
   "persistent":false,
@@ -27,7 +27,10 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":null,
+  "spriteId":{
+    "name":"Spr_Evidence_Board",
+    "path":"sprites/Spr_Evidence_Board/Spr_Evidence_Board.yy",
+  },
   "spriteMaskId":null,
   "visible":true,
 }
