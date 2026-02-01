@@ -85,8 +85,8 @@
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
   "RoomOrderNodes":[
-    {"roomId":{"name":"rm_test_dialogue_system","path":"rooms/rm_test_dialogue_system/rm_test_dialogue_system.yy",},},
     {"roomId":{"name":"Street","path":"rooms/Street/Street.yy",},},
+    {"roomId":{"name":"rm_test_dialogue_system","path":"rooms/rm_test_dialogue_system/rm_test_dialogue_system.yy",},},
     {"roomId":{"name":"Apartment_1","path":"rooms/Apartment_1/Apartment_1.yy",},},
     {"roomId":{"name":"Woman_Room","path":"rooms/Woman_Room/Woman_Room.yy",},},
     {"roomId":{"name":"Settings","path":"rooms/Settings/Settings.yy",},},
