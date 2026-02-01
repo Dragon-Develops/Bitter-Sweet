@@ -18,14 +18,15 @@ page_number = 0;
 
 //------actual text lines-------//
 
+text[0] = "Banana"
 
-text[0] = "Hi, how are you?";
-text[1] = "This is the second entry of the text array!";
-text[2] = "g~`1234567890 -_=+,<> /? ;:  ' [] {] \| ";
-text[3] = "test test test test test test test test test test test test test test test test test test test test";
+detective_text[0] = "Hi, how are you on this fine day?";
+detective_text[1] = "This is the second entry of the text array!";
+detective_text[2] = "g~`1234567890 -_=+,<> /? ;:  ' [] {] \| ";
+detective_text[3] = "test test test test test test test test test test test test test test test test test test test test";
 
 
-text_length[0] = string_length(text[0]);
+text_length[0] = string_length(detective_text[0]);
 draw_char = 0;
 text_spd = 1;
 
